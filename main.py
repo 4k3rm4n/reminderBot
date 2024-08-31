@@ -12,8 +12,8 @@ import threading
 pattern_date = r'^\d{4}-\d{2}-\d{2} \d{2}:\d{2}$'
 pattern_timer = r'^(?:(\d+)[Dd] )?(?:(\d+)[Hh] )?(?:(\d+)[Mm])?$'
 pattern_offset = r'([+-]\d{1,2}|0)'
-bot = telebot.TeleBot('6936192078:AAHoZXvxTXEdpgmhfbHNazf86_XrLP9HvLI')
-API = 'd067cbfaf79dc0152fb46c09a4d201d6'
+bot = telebot.TeleBot('****')
+API = '****'
 date = ''
 text = ''
 
